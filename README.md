@@ -1,0 +1,3 @@
+- https://classroom.github.com/assignment-invitations/3e6cb82686e91a679490763cadfa4fdb
+- - HW: 13/Extend: Learn about sound and the DOM.
+- Use my reactiveMaya (https://github.com/fredeerock/reactiveMaya) method to create something in Maya using either video or audio input from your computer. 
